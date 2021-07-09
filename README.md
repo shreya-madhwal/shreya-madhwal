@@ -1,6 +1,8 @@
 <h1 align="center">Hey there! I'm Shreya👋</h1>
 <h3 align="center">I'm a passionate CSE student, learner and contributor. Currently I'm enhancing my web development skills and open to learn new stuff as well.</h3>
 
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/84977514/125041334-dd070980-e055-11eb-9836-469256229887.png">
+
 - 🔭 I’m currently working on **my GitHub profile.**
 
 - 🌱 I’m currently learning **Java Script**
@@ -10,6 +12,8 @@
 - 📫 How to reach me **shreyamadhwal3@gmail.com**
 
 - ⚡ Fun fact **Coffee|Guitar|Rain and here you got my vibe...**
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
