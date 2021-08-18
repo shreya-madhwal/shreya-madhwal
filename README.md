@@ -19,6 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shreya-madhwal-15690b212" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/shreya-madhwal-15690b212" height="30" width="40" /></a>
 <a href="http://instagram.com/being_shreya_yaas03" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="http://instagram.com/being_shreya_yaas03" height="30" width="40" /></a>
+<a href="https://medium.com/@shreyamadhwal3" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="https://medium.com/@shreyamadhwal3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
