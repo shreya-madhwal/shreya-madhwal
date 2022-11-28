@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my GitHub profile.**
 
-- 🌱 I’m currently learning **Java Script**
+- 🌱 I’m currently exploring **New Technologies**
 
 - 👯 I’m looking to collaborate on **Web Development projects**
 
